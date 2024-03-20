@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=J2-4
+Removed Pin From Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=GND_1 Pin=J2-4
+Added Pin To Net: NetName=-15V_1 Pin=J2-5
+Added Pin To Net: NetName=+15V_1 Pin=J2-9
+Added Pin To Net: NetName=GND_2 Pin=J3-4
+Added Pin To Net: NetName=-15V_2 Pin=J3-5
+Added Pin To Net: NetName=+15V_2 Pin=J3-9
+Add Class: Class already exists: Power Supply
+Add Class: Class already exists: Signal Conditioning

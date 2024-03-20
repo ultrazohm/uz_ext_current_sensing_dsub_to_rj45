@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=V_Spannung_P Pin=J1-3
+Added Pin To Net: NetName=V_Spannung_N Pin=J1-6
+Added Pin To Net: NetName=V_DSUB_3_N Pin=J1-5
+Added Pin To Net: NetName=V_DSUB_3_N Pin=J4-6
+Added Net: Name=V_DSUB_3_N
+Added Pin To Net: NetName=V_DSUB_3_P Pin=J1-4
+Added Pin To Net: NetName=V_DSUB_3_P Pin=J4-1
+Added Net: Name=V_DSUB_3_P
+Add Class: Class already exists: Power Supply
+Add Class: Class already exists: Signal Conditioning
+Added Differential Pair: Name=V_DSUB_3

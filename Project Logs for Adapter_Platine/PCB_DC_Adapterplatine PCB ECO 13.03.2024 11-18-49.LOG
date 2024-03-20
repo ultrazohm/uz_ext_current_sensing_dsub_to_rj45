@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=+15V_1 Pin=PS1-8
+Removed Pin From Net: NetName=GND_1 Pin=PS1-9
+Removed Pin From Net: NetName=+15V_2 Pin=PS2-8
+Removed Pin From Net: NetName=GND_2 Pin=PS2-9
+Removed Pin From Net: NetName=NetD7_2 Pin=R22-1
+Removed Pin From Net: NetName=NetD5_2 Pin=R22-2
+Removed Member From Class: ClassName=Signal Conditioning Member=R22
+Change Component Comment : Designator=R7 Old Comment=20R New Comment=10R
+Change component parameters: Designator = "R7" ("R7"); Footprint = "RES 1206_3216"; UniqueID = "\MOEPXYMO\PIOSEUMD" ("\MOEPXYMO\PIOSEUMD")
+Change component parameters (AddParameter): Name = "Component Type"; Value = "SMD resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.koaspeer.com/pdfs/SG73G.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created from"; Value = "TGaupp"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Created On"; Value = "13.03.2024 10:06:45"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Device Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Last Updated"; Value = "13.03.2024 10:06:45"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SG73G2BTTD10R0D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartID"; Value = "329"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "660-SG73G2BTTD10R0D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "0.5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES 1206_3216)
+Add component (AddParameter): Name = "Component Type"; Value = "SMD resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.koaspeer.com/pdfs/SG73G.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created from"; Value = "TGaupp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Created On"; Value = "13.03.2024 10:06:45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Last Updated"; Value = "13.03.2024 10:06:45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Live Cycle Status"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SG73G2BTTD10R0D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartID"; Value = "329"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock number"; Value = "not stored"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "660-SG73G2BTTD10R0D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND_1 Pin=PS1-8
+Added Pin To Net: NetName=+15V_1 Pin=PS1-9
+Added Pin To Net: NetName=GND_2 Pin=PS2-8
+Added Pin To Net: NetName=+15V_2 Pin=PS2-9
+Added Pin To Net: NetName=NetD7_2 Pin=R8-1
+Added Pin To Net: NetName=NetD5_2 Pin=R8-2
+Add Class: Class already exists: Power Supply
+Add Class: Class already exists: Signal Conditioning
+Added Member To Class: ClassName=Signal Conditioning Member=Component R8 10R

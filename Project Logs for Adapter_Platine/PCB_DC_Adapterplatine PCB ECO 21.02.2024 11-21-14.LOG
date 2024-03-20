@@ -1,0 +1,11 @@
+Add Pin To Net: Unknown Pin: Pin J2-10
+Add Pin To Net: Unknown Pin: Pin J2-11
+Add Pin To Net: Unknown Pin: Pin J3-10
+Add Pin To Net: Unknown Pin: Pin J3-11
+Add Pin To Net: Unknown Pin: Pin J4-10
+Add Pin To Net: Unknown Pin: Pin J4-11
+Add Pin To Net: Unknown Pin: Pin J5-10
+Add Pin To Net: Unknown Pin: Pin J5-11
+Change Net Name : Old Net Name=OUTPUT_1 New Net Name=NetD1_2
+Change Net Name : Old Net Name=RETURN_1 New Net Name=NetD3_2
+Add Class: Class already exists: Signal Conditioning

@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=V_Strom_1_P Pin=J1-1
+Removed Pin From Net: NetName=V_Strom_1_N Pin=J1-2
+Removed Pin From Net: NetName=V_Strom_2_P Pin=J1-3
+Removed Pin From Net: NetName=V_DSUB_4_P Pin=J1-4
+Removed Pin From Net: NetName=V_DSUB_4_N Pin=J1-5
+Removed Pin From Net: NetName=V_Strom_2_N Pin=J1-6
+Removed Pin From Net: NetName=V_Spannung_N Pin=J1-7
+Removed Pin From Net: NetName=V_Spannung_P Pin=J1-8
+Removed Pin From Net: NetName=GND Pin=R18-1
+Removed Member From Class: ClassName=TopSheet Member=R18
+Change Component Footprint: Designator=J1 Old Footprint=634008149821 New Footprint=RJHSE-5381
+Change Component Comment : Designator=J1 Old Comment=6339160-1 New Comment=RJHSE-5381
+Change component parameters: Designator = "J1" ("J1"); Footprint = "634008149821"; UniqueID = "\AZLCIIPT" ("\AZLCIIPT")
+Added Pin To Net: NetName=V_Spannung_P Pin=J1-1
+Added Pin To Net: NetName=V_Spannung_N Pin=J1-2
+Added Pin To Net: NetName=V_DSUB_4_N Pin=J1-3
+Added Pin To Net: NetName=V_Strom_2_N Pin=J1-4
+Added Pin To Net: NetName=V_Strom_2_P Pin=J1-5
+Added Pin To Net: NetName=V_DSUB_4_P Pin=J1-6
+Added Pin To Net: NetName=V_Strom_1_N Pin=J1-7
+Added Pin To Net: NetName=V_Strom_1_P Pin=J1-8
+Added Pin To Net: NetName=GND Pin=J1-MH1
+Added Pin To Net: NetName=GND Pin=J1-MH2
+Add Class: Class already exists: Power Supply
+Add Class: Class already exists: Signal Conditioning

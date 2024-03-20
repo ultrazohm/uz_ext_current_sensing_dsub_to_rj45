@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=V_Strom_2_P Pin=J1-7
+Added Pin To Net: NetName=V_Strom_2_N Pin=J1-8
+Add Class: Class already exists: Power Supply
+Add Class: Class already exists: Signal Conditioning
