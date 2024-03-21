@@ -207,24 +207,24 @@ DocumentPath=Project Outputs for Adapter_Platine\Design Rule Check - PCB_DC_Adap
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Author
-Value=Tom Gaupp
+Name=ProjectRevision
+Value=Rev01
 
 [Parameter2]
-Name=AuthorParam
-Value=Tom Gaupp
-
-[Parameter3]
-Name=Project
-Value=Adapterplatine
-
-[Parameter4]
 Name=ProjectDate
 Value=03/24
 
+[Parameter3]
+Name=Project
+Value=uz_ext_current_sensing_dsub_to_rj45
+
+[Parameter4]
+Name=AuthorParam
+Value=Tom Gaupp
+
 [Parameter5]
-Name=ProjectRevision
-Value=Rev01
+Name=Author
+Value=Tom Gaupp
 
 [Configuration1]
 Name=Sources
