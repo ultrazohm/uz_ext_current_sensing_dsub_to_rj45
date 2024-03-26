@@ -1,0 +1,22 @@
+Added Component: Designator=PS1(TEL 12-2423)
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1951-TEL12-2423-ND"; VariantName = "[No Variations]"
+Added Component: Designator=PS2(TEL 12-2423)
+Add component (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1951-TEL12-2423-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=24V_IN Pin=PS1-1
+Added Pin To Net: NetName=GND_1 Pin=PS1-8
+Added Pin To Net: NetName=+15V_1 Pin=PS1-9
+Added Pin To Net: NetName=-15V_1 Pin=PS1-10
+Added Pin To Net: NetName=GND_IN Pin=PS1-16
+Added Pin To Net: NetName=24V_IN Pin=PS2-1
+Added Pin To Net: NetName=GND_2 Pin=PS2-8
+Added Pin To Net: NetName=+15V_2 Pin=PS2-9
+Added Pin To Net: NetName=-15V_2 Pin=PS2-10
+Added Pin To Net: NetName=GND_IN Pin=PS2-16
+Add Class: Class already exists: Power Supply
+Add Class: Class already exists: Signal Conditioning
+Added Member To Class: ClassName=Power Supply Member=Component PS1 TEL 12-2423
+Added Member To Class: ClassName=Power Supply Member=Component PS2 TEL 12-2423
