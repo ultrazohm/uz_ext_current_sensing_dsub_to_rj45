@@ -1,0 +1,6 @@
+Change component parameters: Designator = "PS3" ("PS3"); Footprint = "TMA 2405D"; UniqueID = "\ORUGFTSC\KPEPSRVU" ("\ORUGFTSC\KPEPSRVU")
+Change component parameters (AddParameter): Name = "Parameter 1"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "495-TMA-2405D"; VariantName = "[No Variations]"
+Add Class: Class already exists: Power Supply
+Add Class: Class already exists: Signal Conditioning
