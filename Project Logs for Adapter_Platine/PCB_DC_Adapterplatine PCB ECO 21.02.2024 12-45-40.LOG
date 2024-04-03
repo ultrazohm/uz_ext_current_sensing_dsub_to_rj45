@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=R8-1
-Removed Pin From Net: NetName=GND Pin=R9-1
-Removed Pin From Net: NetName=GND Pin=R10-1
-Removed Pin From Net: NetName=GND Pin=R11-1
-Removed Member From Class: ClassName=TopSheet Member=R8
-Removed Member From Class: ClassName=TopSheet Member=R9
-Removed Member From Class: ClassName=TopSheet Member=R10
-Removed Member From Class: ClassName=TopSheet Member=R11
-Add Class: Class already exists: Signal Conditioning

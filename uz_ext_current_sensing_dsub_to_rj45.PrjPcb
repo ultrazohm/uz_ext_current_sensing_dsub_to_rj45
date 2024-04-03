@@ -220,6 +220,10 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for uz_ext_current_sensing_dsub_to_rj45\Design Rule Check - PCB_current_sensing_dsub_to_rj45.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Project Outputs for Adapter_Platine\Design Rule Check - PCB_DC_Adapterplatine.html
 DItemRevisionGUID=
 
