@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 10:03:48 On 29.08.2024
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Project [04_DC_uz_ext_current_sensing_dsub_to_rj45_Rev02.PrjPcb]
+   Generated File[BOM_JLC_04_DC_uz_ext_current_sensing_dsub_to_rj45_Rev02_[No Variations]_Rev02.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 10:04:05 On 29.08.2024
